@@ -1,8 +1,9 @@
 Hi, I am Daniel Kyere- 👋
 
-I am interested in pursing higher education in transportation engineering.
-with a focus on applying AI and deep learning models to dynamic traffic assignment, 
+I am interested in pursing higher education in transportation engineering
+with a focus on applying AI and deep learning models to dynamic traffic assignment
 rail scheduling, and transportation planning. 
+
 
 Currently, I am taking online courses on how to apply and deploy OpenCV to solve transportation problems. - 🌱
 
